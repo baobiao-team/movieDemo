@@ -1,0 +1,26 @@
+[
+	{
+		"dynamicId": "0",
+		"username": "001",
+		"text": "1111111111",
+		"likeNum": 0,
+		"commentNum": 0,
+		"like": true
+	},
+	{
+		"dynamicId": "1",
+		"username": "002",
+		"text": "2222222222222",
+		"likeNum": 1,
+		"commentNum": 1,
+		"like": false
+	},
+	{
+		"dynamicId": "2",
+		"username": "002",
+		"text": "333333333333",
+		"likeNum": 2,
+		"commentNum": 2,
+		"like": true
+	}
+]

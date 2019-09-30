@@ -1,0 +1,22 @@
+[
+{"cinemaId": 1, "cineName": "香港未来主题影院", "location": "碑林区长安立交东北角香港未来影院二楼", "miniprice": 32.5, "label": "IMAX厅", "longitude": 107.4, "latitude": 33.42},
+{"cinemaId": 2, "cineName": "中影飞尚国际影城", "location": "新城区长乐西路益田假日世界7层（地铁1号线朝阳门站B出口）", "miniprice": 30, "label": "IMAX厅", "longitude": 107.56, "latitude": 33.54},
+{"cinemaId": 3, "cineName": "CGV影城（万象城店）", "location": "未央区三桥新街1076号华润万象城4层", "miniprice": 32.5, "label": "CGS中国巨幕厅", "longitude": 107.72, "latitude": 33.66},
+{"cinemaId": 4, "cineName": "金逸影城（西安澳堡店）", "location": "长安区西长安街澳堡时代广场", "miniprice": 25.5, "label": "Dolby Cinema厅", "longitude": 107.88, "latitude": 33.78},
+{"cinemaId": 5, "cineName": "首映国际影城（通化门店）", "location": "新城区金花路十字苏宁东侧西北国际茶城4楼", "miniprice": 25.5, "label": "巨幕厅", "longitude": 108.04, "latitude": 33.9},
+{"cinemaId": 6, "cineName": "万达影城（李家村店）", "location": "碑林区雁塔路北段8号万达商业广场4楼", "miniprice": 25.5, "label": "CGS中国巨幕厅", "longitude": 108.2, "latitude": 34.02},
+{"cinemaId": 7, "cineName": "万达影城（大明宫店）", "location": "未央区太华北路369号万达广场", "miniprice": 34, "label": "4D厅", "longitude": 108.36, "latitude": 34.14},
+{"cinemaId": 8, "cineName": "文投国际影城（华东店）", "location": "新城区朝阳门外长乐西路128号华东万悦城7层", "miniprice": 30, "label": "Dolby Cinema厅", "longitude": 108.52, "latitude": 34.26},
+{"cinemaId": 9, "cineName": "环宇国际影城（户县店）", "location": "鄠邑区购物中心负一层", "miniprice": 30, "label": "4D厅", "longitude": 108.68, "latitude": 34.38},
+{"cinemaId": 10, "cineName": "CGV影城（印象城IMAX店）", "location": "未央区未央路33号龙首村未央印象城3楼（万龙广场，盛龙广场，未央区政府）", "miniprice": 35, "label": "杜比全景声厅", "longitude": 108.84, "latitude": 34.5},
+{"cinemaId": 11, "cineName": "万达影城（解放路店）", "location": "新城区解放路111号五路口东南角万达广场南区1号门4层", "miniprice": 26, "label": "4D厅", "longitude": 109.0, "latitude": 34.62},
+{"cinemaId": 12, "cineName": "奥斯卡国际影城（长安城南新天地店）", "location": "长安区西长安街与府东一路交叉口东南角城南新天地南区负一层（长安新区政府斜对面）", "miniprice": 35, "label": "4D厅", "longitude": 109.16, "latitude": 34.74},
+{"cinemaId": 13, "cineName": "花溪湾电影城", "location": "雁塔区丈八东路118号（电子正街）", "miniprice": 35, "label": "Dolby Cinema厅", "longitude": 109.32, "latitude": 34.86},
+{"cinemaId": 14, "cineName": "大明宫IMAX影院（自强东路店）", "location": "新城区自强东路585号（西安大明宫国家遗址公园内御道广场东侧）", "miniprice": 26, "label": "巨幕厅", "longitude": 109.48, "latitude": 34.98},
+{"cinemaId": 15, "cineName": "户县电影城", "location": "鄠邑区娄敬路2号", "miniprice": 35, "label": "巨幕厅", "longitude": 109.64, "latitude": 35.1},
+{"cinemaId": 16, "cineName": "珠江影城（西安店）", "location": "新城区解放路欢乐城西三路口（盒马生鲜隔壁电梯7F）", "miniprice": 35, "label": "巨幕厅", "longitude": 109.8, "latitude": 35.22},
+{"cinemaId": 17, "cineName": "奥斯卡金地国际影城（金地广场）", "location": "雁塔区曲江池东路金地广场4楼（飞象披萨对面）", "miniprice": 35, "label": "CGS中国巨幕厅", "longitude": 109.96, "latitude": 35.34},
+{"cinemaId": 18, "cineName": "派啦萌巨幕影城（卜蜂莲花店）", "location": "未央区凤城八路与渭滨路十字西北角卜蜂莲花4F", "miniprice": 32.5, "label": "DTS-X临境音厅", "longitude": 110.12, "latitude": 35.46},
+{"cinemaId": 19, "cineName": "CGV影城（胡家庙店）", "location": "新城区长缨西路1号华东万和城6层（胡家庙十字）", "miniprice": 34, "label": "巨幕厅", "longitude": 110.28, "latitude": 35.58},
+{"cinemaId": 20, "cineName": "时代华纳国际影城（三桥店）", "location": "未央区沣东新城启航时代广场4F", "miniprice": 28.5, "label": "IMAX厅", "longitude": 110.44, "latitude": 35.7}
+]

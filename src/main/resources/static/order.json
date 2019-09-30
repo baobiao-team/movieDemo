@@ -1,0 +1,26 @@
+[
+	{
+		"userId": "1",
+		"orderId": "1",
+		"cinemaId": "1",
+		"cineName": "中影泰德影城",
+		"location": "高新区锦业路丈八二路绿地缤纷",
+		"movieId": "1",
+		"movieName": "大圣归来",
+		"showTime": "2019-09-30 星期天 11:20",
+		"pieces": 2,
+		"totalPrice": 72.3
+	},
+	{
+		"userId": "2",
+		"orderId": "2",
+		"cinemaId": "2",
+		"cineName": "万达国际影城",
+		"location": "高新区唐延路高新万达广场",
+		"movieId": "2",
+		"movieName": "哪吒之魔童降世",
+		"showTime": "2019-10-01 星期一 10:30",
+		"pieces": 4,
+		"totalPrice": 108.9
+	}
+]
